@@ -1,0 +1,9 @@
+[user]
+	name = UW Ocean Technology Program
+	email = 136491027+UWOceanTech@users.noreply.github.com
+[gpg]
+	program = /.codespaces/bin/gh-gpgsign
+[init]
+	defaultBranch = main
+[credential]
+	helper = /.codespaces/bin/gitcredential_github.sh
